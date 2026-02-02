@@ -248,4 +248,48 @@ Carga el archivo HTML en tu navegador favorito y disfruta de este emocionante ju
 
 ---
 
+## 📋 Tareas Pendientes
+
+### 🔧 Mejoras Futuras
+- [ ] Añadir niveles de dificultad (fácil, medio, difícil)
+- [ ] Implementar sistema de puntuación global
+- [ ] Agregar efectos de sonido para voltear cartas y emparejar
+- [ ] Crear tabla de récords locales
+- [ ] Añadir modo multijugador
+- [ ] Diseñar nuevos temas (océano, jungle, ciudades)
+- [ ] Optimizar rendimiento en dispositivos móviles
+- [ ] Implementar modo oscuro/claro
+
+### 🎨 Mejoras Visuales
+- [ ] Añadir más animaciones de transición
+- [ ] Crear efectos de partículas personalizados
+- [ ] Diseñar nuevos fondos animados
+- [ ] Mejorar la pantalla de victoria con más efectos
+
+### 🧪 Aspectos Técnicos
+- [ ] Refactorizar código para mejor mantenibilidad
+- [ ] Añadir comentarios más detallados
+- [ ] Crear versión con framework (React/Vue)
+- [ ] Implementar almacenamiento local para guardar récords
+- [ ] Optimizar algoritmos de renderizado
+
+---
+
+## 💾 Inspiración Retro: Microprocesador 6502
+
+El desarrollo de juegos web modernos como Memoria Espacial tiene sus raíces en la historia de la computación. El **microprocesador 6502** fue uno de los chips más influyentes en la era dorada de los videojuegos y la computación personal.
+
+![Microprocesador MOS 6502](microprocesador_6502.png)
+*Microprocesador MOS 6502AD - El chip que revolucionó la industria de los videojuegos*
+
+### 🎮 Legado del 6502
+- Utilizado en consolas icónicas como **Nintendo Entertainment System (NES)** y **Atari 2600**
+- Base de computadoras legendarias como **Apple II** y **Commodore 64**
+- Procesador de 8 bits que revolucionó la industria en los años 70 y 80
+- Inspiración para generaciones de programadores y desarrolladores de videojuegos
+
+Aunque hoy programamos en lenguajes de alto nivel como JavaScript, HTML y CSS, el espíritu de creatividad y optimización que caracterizó a los programadores del 6502 sigue vivo en cada juego que creamos.
+
+---
+
 **✨ ¡Buena suerte y que disfrutes del viaje espacial! 🌌**
